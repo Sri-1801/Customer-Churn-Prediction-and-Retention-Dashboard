@@ -26,4 +26,4 @@ This Power BI project analyzes customer churn to identify key factors influencin
   
 
 ## 🧑‍💼 Author
-**Sri** — Data Analyst Portfolio Project
+**DHANUJASRI SAGADEVAN** — Data Analyst Portfolio Project
